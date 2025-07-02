@@ -1,0 +1,7 @@
+streamlit        # Untuk membuat aplikasi web interaktif
+catboost         # Model machine learning yang kamu pakai
+yfinance         # Untuk mengambil data BTC/USD real-time
+numpy            # Perhitungan numerik
+pandas           # Manipulasi data (DataFrame)
+plotly           # Untuk membuat grafik candlestick & volume
+ta
